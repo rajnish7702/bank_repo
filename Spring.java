@@ -1,5 +1,5 @@
 public class Spring{
 	public void doPost(){
-		// Logic
+		System.out.println("Hello ");
 	}
 }
